@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.IconSwitch {
+  align-self: flex-end;
+
+  cursor: pointer;
+}
+
+.material-symbols-outlined {
+  font-size: 60px;
+}

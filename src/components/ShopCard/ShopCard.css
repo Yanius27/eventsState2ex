@@ -1,0 +1,40 @@
+.ShopCard {
+  text-align: center;
+
+  cursor: default;
+}
+
+.ShopCard__title, .ShopCard__color {
+  color: black;
+}
+
+.ShopCard__title {
+  font-size: 22px;
+  font-weight: 600;
+
+  margin: 0;
+}
+
+.ShopCard__color {
+  font-size: 18px;
+  font-weight: 200;
+}
+
+.ShopCard__price, .ShopCard__add-btn {
+  color: rgb(180, 9, 0);
+}
+
+.ShopCard__price {
+  font-size: 25px;
+}
+
+.ShopCard__add-btn {
+  padding: 7px 15px;
+  border: 1px solid rgb(180, 9, 0);
+  border-radius: 30px;
+
+  font-size: 12px;
+  font-weight: 700;
+
+  background-color: inherit;
+}
